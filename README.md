@@ -120,15 +120,6 @@ TEST_GROUP_CHAT_ID = -1001234567890  # Your test group ID
 - **Bounty Checking**: Every 30 minutes (configurable)
 - **Group Behavior**: Only responds when mentioned or commands used
 
-## 🎬 Demo Video Script (90 seconds)
-
-1. **0-15s**: DM Q&A - "What is Talent Hub Friday?"
-2. **15-30s**: Group mention behavior - Only responds when mentioned
-3. **30-45s**: Events command - Shows upcoming events with RSVP links
-4. **45-60s**: Bounties command - Live bounty data with prizes and deadlines
-5. **60-75s**: Subscribe flow - /subscribe and /unsubscribe functionality
-6. **75-90s**: Live bounty alert - New bounty notification in group
-
 ## 💰 Maintenance Costs
 
 - **Server**: $5-10/month (512MB RAM minimum)
@@ -155,22 +146,6 @@ EVENTS_FEED_URL = "https://your-events-api.com/endpoint"
 # In config.py
 CHECK_INTERVAL_MINUTES = 15  # Check every 15 minutes
 ```
-
-## 🏆 Why This Bot Wins
-
-1. **Complete Feature Set** - Meets every single bounty requirement
-2. **Production Ready** - Robust error handling and monitoring
-3. **Easy Maintenance** - Configurable without code changes
-4. **User Experience** - Natural language and intuitive design
-5. **University Focus** - Specialized for student onboarding
-6. **Scalability** - Ready for growth and expansion
-
-## 📞 Contact & Submission
-
-- **Bot Handle**: @Superteam_Irish_bot
-- **Repository**: [GitHub Link]
-- **Demo Video**: [YouTube Link]
-- **Email**: ireland@superteam.fun
 
 ## 🎓 University Student Onboarding Features
 
@@ -222,7 +197,4 @@ logging.basicConfig(level=logging.DEBUG)
 - [ ] Set up backup for database
 
 ---
-
-**🇮🇪 Ready to win the $500 USD bounty!**
-
 This bot is production-ready, well-documented, and meets all bounty requirements with university student onboarding focus.
